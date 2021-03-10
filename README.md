@@ -2,7 +2,7 @@
 
 几行命令行搭建shadowsocks server
 
-1. 安装最基础的docker: apt-get install docker; yum install docker
+1. 安装最基础的docker:yum install docker; apt-get install docker
 2. docker pull shadowsocks/shadowsocks-libev
 3. docker run -e PASSWORD=helloworld -e METHOD=aes-128-cfb -p22360:8388 -p22360:8388/udp -d shadowsocks/shadowsocks-libev
 
