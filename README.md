@@ -11,3 +11,6 @@
 客户端配置:
 
 <img width="150" alt="WechatIMG151" src="https://user-images.githubusercontent.com/2038071/110611311-0f008000-81ca-11eb-97b4-18fb7aa1d941.png">
+
+
+ps:租服务不要租那种有宽带上限的，租那种1一个月500G或者1T流量的无峰值上限的。一年参考价格300-600rmb足够n人使用，多几个人少几个人没感觉。群主使用的是搬瓦工。
