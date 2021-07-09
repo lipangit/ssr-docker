@@ -1,3 +1,12 @@
+
+
+群主的ssr被封了，现在用Brook，配置方便操作简单。
+
+[Brook服务端配置](https://txthinking.github.io/brook/#/zh-cn/brook-server)
+
+[Brook客户端配置](https://txthinking.github.io/brook/#/zh-cn/install-gui-client)
+
+# Deprecated
 # DockerShadowsocksServer
 
 几行命令行搭建shadowsocks server
