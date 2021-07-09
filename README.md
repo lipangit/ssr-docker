@@ -1,6 +1,6 @@
 
 
-群主的ssr被封了，现在用Brook，配置方便操作简单。
+群主的ssr被封了，现在用Brook，配置简单操作方便。
 
 [Brook服务端配置](https://txthinking.github.io/brook/#/zh-cn/brook-server)
 
