@@ -7,7 +7,7 @@
 [Brook客户端配置](https://txthinking.github.io/brook/#/zh-cn/install-gui-client)
 
 # Deprecated
-# DockerShadowsocksServer
+### DockerShadowsocksServer
 
 几行命令行搭建shadowsocks server
 
