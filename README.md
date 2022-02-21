@@ -1,4 +1,4 @@
-
+# Deprecated
 
 群主的ssr被封了，现在用Brook，配置简单操作方便。
 
